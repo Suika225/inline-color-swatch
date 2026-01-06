@@ -1,0 +1,24 @@
+.inline-color-swatch {
+	display: inline-block !important;
+	width: 1em;
+	height: 1em;
+	margin-left: 0.2em;
+	vertical-align: -0.12em;
+	outline: 1px solid rgba(0,0,0,0.15);
+	outline-offset: -1px;
+}
+
+.cm-inline-code .color-swatch-mark::after {
+	content: "";
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	margin-left: 0.2em;
+	vertical-align: -0.12em;
+	border-radius: 0.2em;
+
+	background-color: var(--color-swatch);
+	border: 1px solid var(--background-modifier-border);
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.04) inset;
+	outline-offset: -1px;
+}

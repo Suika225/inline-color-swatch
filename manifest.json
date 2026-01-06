@@ -1,0 +1,11 @@
+{
+	"main": "main.js",
+	"id": "inline-color-swatch",
+	"name": "Inline Color Swatch",
+	"version": "0.1.0",
+	"minAppVersion": "1.10.6",
+	"description": "Show color swatches for CSS color values in inline code.",
+	"author": "Suika",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

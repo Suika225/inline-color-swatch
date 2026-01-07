@@ -2,8 +2,8 @@
 Inline Color Swatches shows a small color preview next to supported CSS color values written in inline code spans.
 
 This plugin follows GitHub Flavored Markdown behavior:
-- ✅ Inline code spans ( <span>` ... `</span> ) are supported
-- ❌ Code blocks ( <span>``` ... ```</span> ) are intentionally excluded
+- ✅ Inline code spans (`` `...` ``) are supported
+- ❌ Code blocks (```` ```...``` ````) are intentionally excluded
 
 ## Supported formats
 
@@ -31,5 +31,5 @@ This plugin follows GitHub Flavored Markdown behavior:
 | Theme   | Light mode                         | Dark mode                         |
 | ------- | ---------------------------------- | --------------------------------- |
 | Default | ![Default Theme(Light mode)](image/Default-Theme(Light-mode).png) | ![Default Theme(Dark mode)](image/Default-Theme(Dark-mode).png) |
-| Minimal | ![Minimal Theme(Light mode)](image/Minimal-Theme(Light-mode).png) | ![Minimal Theme(Dark mode)](image/Minimal-Theme(Dark-mode).png) |
-| Things  | ![Things Theme(Light mode)](image/Things-Theme(Light-mode).png)   | ![Things Theme(Dark mode)](image/Things-Theme(Dark-mode).png)   |
+| [Minimal](https://github.com/kepano/obsidian-minimal) | ![Minimal Theme(Light mode)](image/Minimal-Theme(Light-mode).png) | ![Minimal Theme(Dark mode)](image/Minimal-Theme(Dark-mode).png) |
+| [Things](https://github.com/colineckert/obsidian-things) | ![Things Theme(Light mode)](image/Things-Theme(Light-mode).png)   | ![Things Theme(Dark mode)](image/Things-Theme(Dark-mode).png)   |

@@ -1,4 +1,23 @@
 # Inline Color Swatches
+<p align="center">
+    <a href="https://github.com/Suika225/inline-color-swatch/releases/latest">
+		<img src="https://img.shields.io/github/release/Suika225/inline-color-swatch?label=Version">
+	</a>
+	<a href="https://obsidian.md">
+		<img src="https://img.shields.io/badge/Obsidian-Download-8a5cf5?logo=obsidian">
+	</a>
+	<a href="https://github.com/Suika225/inline-color-swatch">
+		<img src="https://img.shields.io/badge/GitHub-Repository-25292e?logo=github">
+	</a><br>
+	<a href="https://github.com/Suika225/inline-color-swatch/blob/main/LICENSE">
+		<img src="https://img.shields.io/github/license/Suika225/inline-color-swatch">
+	</a>
+	<a href="https://github.com/Suika225/inline-color-swatch/issues">
+		<img src="https://img.shields.io/github/issues/Suika225/inline-color-swatch">
+	</a>
+	<!-- <img src="https://img.shields.io/github/downloads/Suika225/inline-color-swatch/total"> -->
+</p>
+
 Inline Color Swatches shows a small color preview next to supported CSS color values written in inline code spans.
 
 This plugin follows GitHub Flavored Markdown behavior:
